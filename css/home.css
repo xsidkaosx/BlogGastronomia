@@ -5,3 +5,11 @@
 img{
   max-height: 129px;
 }
+
+#historial li{
+    border: 1px solid gray;
+}
+
+#historial li:hover{
+    background-color:
+}

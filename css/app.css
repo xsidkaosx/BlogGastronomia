@@ -1,0 +1,29 @@
+body{
+  background: transparent url("../img/fondo_02.jpg") repeat scroll 50% center !important;
+  font-family: 'Dancing Script';
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Dancing Script', cursive !important;
+}
+
+#contenedor{
+  background-color: rgba(8,45,94,0.5);
+  /*background-color: rgba(248,249,250,0.8); */
+}
+
+.articulo{
+  background-color: floralwhite;
+}
+
+.titulo-blog{
+  color: white;
+}
+
+#historial li {
+  border: 1px solid #f8f9fa!important
+}
+
+#historial li:hover {
+  background-color: #f8f9fa!important
+}
